@@ -2,9 +2,9 @@
 
 Welcome to my **LeetCode 150 – Coding Interview Preparation** repository.
 
-This repository contains my solutions to the **LeetCode Top Interview 150** problems, implemented in **JavaScript**.
+This repository contains my **JavaScript solutions** for the **LeetCode Top Interview 150** problems.
 
-The goal is to solve all 150 problems, improve problem-solving skills, strengthen Data Structures & Algorithms, and prepare for coding interviews.
+The goal is to build strong problem-solving skills, strengthen Data Structures & Algorithms, and prepare for coding interviews through consistent practice.
 
 ---
 
@@ -18,7 +18,7 @@ The goal is to solve all 150 problems, improve problem-solving skills, strengthe
 
 | # | Problem | Difficulty | Status |
 |---|---|---|---|
-| 1 | [Two Sum](./01-Array-String/001-Two-Sum.js) | Easy | ✅ Completed |
+| 001 | [Two Sum](./01-Array-String/001-Two-Sum/) | Easy | ✅ Completed |
 
 **Progress: 1 / 150**
 
@@ -26,34 +26,40 @@ The goal is to solve all 150 problems, improve problem-solving skills, strengthe
 
 ## 📂 Repository Structure
 
-```text
+Each problem has its own folder containing:
+
+- `README.md` → Problem description, approach, complexity, and explanation
+- `solution.js` → JavaScript solution
+
+```text id="q6g8e1"
 leetcode-150-coding-interview-preparation/
 │
 ├── README.md
 │
-├── 01-Array-String/
-│   └── 001-Two-Sum.js
-│
-└── ...
+└── 01-Array-String/
+    │
+    └── 001-Two-Sum/
+        ├── README.md
+        └── solution.js
 ```
 
-As I progress through the LeetCode 150, new problems and categories will be added to the repository.
+As I progress, more problems will be added following the same structure.
 
 ---
 
 ## 🎥 YouTube Series
 
-I'm solving the **LeetCode 150** problems alongside my YouTube series:
+This repository is part of my YouTube series:
 
-**LeetCode 150 – Coding Interview Preparation**
+### **LeetCode 150 – Coding Interview Preparation**
 
-🎬 YouTube playlist link will be added here.
+Each problem is explained and solved using **JavaScript**, with the goal of making the learning process practical and easy to follow.
 
-Each problem will be explained and solved using **JavaScript**.
+🎬 **YouTube Playlist:** Coming soon
 
 ---
 
-## 🎯 Goal
+## 🎯 Goals
 
 - Solve all **150 LeetCode problems**
 - Improve problem-solving skills
@@ -69,5 +75,7 @@ Each problem will be explained and solved using **JavaScript**.
 If this repository helps you with your coding interview preparation, consider giving it a ⭐ **Star**.
 
 More problems will be added as the journey continues.
+
+---
 
 ### 🚀 Keep Learning. Keep Solving. Keep Improving.
