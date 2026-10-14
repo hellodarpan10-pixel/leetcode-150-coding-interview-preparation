@@ -1,59 +1,60 @@
-# LeetCode 150 – Coding Interview Preparation
+# 🚀 LeetCode 150 – Coding Interview Preparation
 
-A structured collection of solutions to the **LeetCode 150** problems, implemented in JavaScript with clear explanations and complexity analysis.
+This repository contains my JavaScript solutions to the **LeetCode Top Interview 150** problems.
 
-This repository is designed to strengthen problem-solving skills and prepare for coding interviews through consistent practice.
-
-## 🚀 About the Repository
-
-- **Language:** JavaScript
-- **Goal:** Solve LeetCode 150 problems with clear, understandable solutions.
-- **Organization:** Each problem has its own folder containing a `solution.js` file and a `README.md`.
-- **Focus:** Understand the problem, explain the approach, and analyze time and space complexity.
-
-## 📊 Progress Tracker
-
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 1 | [Two Sum](./01-Array-String/001-Two-Sum/README.md) | Easy | [solution.js](./01-Array-String/001-Two-Sum/solution.js) |
-| 3 | [Contains Duplicate](./01-Array-String/003-Contains-Duplicate/README.md) | Easy | [solution.js](./01-Array-String/003-Contains-Duplicate/solution.js) |
-
-**Progress: 2 / 150 problems completed**
-
-## 📁 Repository Structure
-
-```text
-leetcode-150-coding-interview-preparation/
-├── README.md
-└── 01-Array-String/
-    ├── 001-Two-Sum/
-    │   ├── README.md
-    │   └── solution.js
-    │
-    └── 003-Contains-Duplicate/
-        ├── README.md
-        └── solution.js
-```
+I'm documenting my problem-solving journey by focusing on clear explanations, efficient approaches, and time and space complexity analysis.
 
 ## 🎯 Goals
 
-- Build strong problem-solving fundamentals.
-- Write clean and readable JavaScript code.
-- Understand efficient approaches and complexity analysis.
-- Maintain consistent progress throughout LeetCode 150.
+- Solve all 150 LeetCode problems.
+- Write clean and readable JavaScript solutions.
+- Understand different approaches to problem-solving.
+- Document each problem with its own solution and explanation.
+- Improve problem-solving skills by getting **1% better every day**.
 
-## ▶️ YouTube Series
+## 📂 Repository Structure
 
-Follow along with the **LeetCode 150 – Coding Interview Preparation** series on YouTube, where each problem is explained step by step.
+Each problem has its own folder containing a `README.md` with the problem description and approach, and a `solution.js` file with the JavaScript implementation.
 
-Subscribe to follow the journey and practice along with each solution.
+```text
+leetcode-150-coding-interview-preparation/
+├── 01-Array-String/
+│   ├── 001-Two-Sum/
+│   │   ├── README.md
+│   │   └── solution.js
+│   ├── 003-Contains-Duplicate/
+│   │   ├── README.md
+│   │   └── solution.js
+│   └── 004-Contains-Duplicate-II/
+│       ├── README.md
+│       └── solution.js
+└── README.md
+```
 
-## 🤝 Support
+## 📊 Progress
 
-If you find this repository helpful:
+**Problems Completed: 3 / 150**
 
-- ⭐ Star the repository.
-- 🍴 Fork it and practice the problems yourself.
-- 💬 Share suggestions or improvements.
+| # | Problem | Difficulty | Status |
+|---|---|---|---|
+| 001 | [Two Sum](./01-Array-String/001-Two-Sum/) | Easy | ✅ Completed |
+| 217 | [Contains Duplicate](./01-Array-String/003-Contains-Duplicate/) | Easy | ✅ Completed |
+| 219 | [Contains Duplicate II](./01-Array-String/004-Contains-Duplicate-II/) | Easy | ✅ Completed |
 
-Happy Coding! 🚀
+## 🛠️ Tech Stack
+
+- **Language:** JavaScript
+- **Platform:** LeetCode
+- **Version Control:** Git and GitHub
+
+## 📺 YouTube Series
+
+I'm documenting my **LeetCode 150 – Coding Interview Preparation** journey on YouTube, explaining problem-solving approaches and JavaScript solutions.
+
+Stay tuned for upcoming videos!
+
+## 🤝 Connect
+
+If you're also preparing for coding interviews or solving LeetCode problems, feel free to explore the repository, share your feedback, and connect with me.
+
+Let's keep building and getting **1% better every day!** 🚀
