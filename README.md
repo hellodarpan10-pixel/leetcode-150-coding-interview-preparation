@@ -25,7 +25,10 @@ leetcode-150-coding-interview-preparation/
 │   ├── 003-Contains-Duplicate/
 │   │   ├── README.md
 │   │   └── solution.js
-│   └── 004-Contains-Duplicate-II/
+│   ├── 004-Contains-Duplicate-II/
+│   │   ├── README.md
+│   │   └── solution.js
+│   └── 005-Valid-Anagram/
 │       ├── README.md
 │       └── solution.js
 └── README.md
@@ -33,13 +36,14 @@ leetcode-150-coding-interview-preparation/
 
 ## 📊 Progress
 
-**Problems Completed: 3 / 150**
+**Problems Completed: 4 / 150**
 
 | # | Problem | Difficulty | Status |
 |---|---|---|---|
 | 001 | [Two Sum](./01-Array-String/001-Two-Sum/) | Easy | ✅ Completed |
 | 217 | [Contains Duplicate](./01-Array-String/003-Contains-Duplicate/) | Easy | ✅ Completed |
 | 219 | [Contains Duplicate II](./01-Array-String/004-Contains-Duplicate-II/) | Easy | ✅ Completed |
+| 242 | [Valid Anagram](./01-Array-String/005-Valid-Anagram/) | Easy | ✅ Completed |
 
 ## 🛠️ Tech Stack
 
