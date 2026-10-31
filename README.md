@@ -1,4 +1,3 @@
-
 # LeetCode 150 – Coding Interview Preparation 🚀
 
 Welcome to my **LeetCode 150 – Coding Interview Preparation** repository!
@@ -24,7 +23,7 @@ Through this repository, I aim to build a strong understanding of data structure
 
 ## 📊 Progress Tracker
 
-**Completed: 5 / 150 problems**
+**Completed: 6 / 150 problems**
 
 | # | Problem | Approach | Solution |
 |---|---|---|---|
@@ -32,7 +31,8 @@ Through this repository, I aim to build a strong understanding of data structure
 | 3 | Contains Duplicate | HashSet | [View Solution](./01-Array-String/003-Contains-Duplicate/) |
 | 4 | Contains Duplicate II | HashMap | [View Solution](./01-Array-String/004-Contains-Duplicate-II/) |
 | 5 | Valid Anagram | HashMap | [View Solution](./01-Array-String/005-Valid-Anagram/) |
-| 6 | Group Anagrams | HashMap | [View Solution](./01-Array-String/006-Group-Anagrams/) |
+| 6 | Group Anagrams | HashMap + Sorting | [View Solution](./01-Array-String/006-Group-Anagrams/) |
+| 7 | Best Time to Buy and Sell Stock | Greedy (Single Pass) | [View Solution](./01-Array-String/007-Best-Time-to-Buy-and-Sell-Stock/) |
 
 > The numbers in the first column represent the order in my learning series, not the official LeetCode problem IDs.
 
@@ -63,7 +63,11 @@ leetcode-150-coding-interview-preparation/
     │   ├── README.md
     │   └── solution.js
     │
-    └── 006-Group-Anagrams/
+    ├── 006-Group-Anagrams/
+    │   ├── README.md
+    │   └── solution.js
+    │
+    └── 007-Best-Time-to-Buy-and-Sell-Stock/
         ├── README.md
         └── solution.js
 ```
@@ -86,6 +90,7 @@ Each problem folder contains:
 | 4 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | HashMap |
 | 5 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | HashMap |
 | 6 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | HashMap + Sorting |
+| 7 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Greedy (Single Pass) |
 
 ---
 
@@ -106,7 +111,7 @@ I'm also documenting my problem-solving journey on YouTube, explaining the logic
 
 💻 **GitHub:** [leetcode-150-coding-interview-preparation](https://github.com/hellodarpan10-pixel/leetcode-150-coding-interview-preparation)
 
-Follow along as I solve problems, learn continuously, and get **1% better every day**.
+Follow along as I solve problems, learn continuously, and get **1% better every day.**
 
 ---
 
