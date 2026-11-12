@@ -1,136 +1,94 @@
-# LeetCode 150 – Coding Interview Preparation 🚀
 
-Welcome to my **LeetCode 150 – Coding Interview Preparation** repository!
+# LeetCode 150 – Coding Interview Preparation
 
-I'm solving LeetCode problems using JavaScript, improving my problem-solving skills, and documenting my journey one problem at a time.
+A structured journey to solve 150 coding interview problems using JavaScript.
 
-The goal is simple: **become 1% better every day.**
-
-Through this repository, I aim to build a strong understanding of data structures and algorithms, write clean and readable code, and develop better problem-solving skills for coding interviews.
-
----
+The goal is simple: understand the problem, explore the approach, write clean code, and become **1% better every day.**
 
 ## 🎯 Goals
 
-- Solve the LeetCode 150 problems using JavaScript.
-- Understand the logic behind every solution.
-- Focus on clean, readable, and maintainable code.
-- Analyze time and space complexity.
-- Document my learning journey through GitHub and YouTube.
-- Improve consistently, one problem at a time.
-
----
+- Solve 150 carefully selected LeetCode problems.
+- Strengthen Data Structures and Algorithms.
+- Understand different problem-solving approaches.
+- Write clean and efficient JavaScript solutions.
+- Document every solution with explanations and complexity analysis.
 
 ## 📊 Progress Tracker
 
-**Completed: 7 / 150 problems**
+**Completed: 8 / 150 problems**
 
-| # | Problem | Approach | Solution |
-|---|---|---|---|
-| 1 | Two Sum | HashMap | [View Solution](./01-Array-String/001-Two-Sum/) |
-| 3 | Contains Duplicate | HashSet | [View Solution](./01-Array-String/003-Contains-Duplicate/) |
-| 4 | Contains Duplicate II | HashMap | [View Solution](./01-Array-String/004-Contains-Duplicate-II/) |
-| 5 | Valid Anagram | HashMap | [View Solution](./01-Array-String/005-Valid-Anagram/) |
-| 6 | Group Anagrams | HashMap + Sorting | [View Solution](./01-Array-String/006-Group-Anagrams/) |
-| 7 | Best Time to Buy and Sell Stock | Greedy (Single Pass) | [View Solution](./01-Array-String/007-Best-Time-to-Buy-and-Sell-Stock/) |
-| 8 | Best Time to Buy and Sell Stock II | Greedy | [View Solution](./01-Array-String/008-Best-Time-to-Buy-and-Sell-Stock-II/) |
-
-> The numbers in the first column represent the order in my learning series, not the official LeetCode problem IDs.
-
----
+Progress: 5.33%
 
 ## 📁 Repository Structure
 
 ```text
 leetcode-150-coding-interview-preparation/
 │
-├── README.md
+├── 01-Array-String/
+│   ├── 001-Two-Sum/
+│   │   ├── README.md
+│   │   └── solution.js
+│   │
+│   ├── 003-Contains-Duplicate/
+│   │   ├── README.md
+│   │   └── solution.js
+│   │
+│   ├── 004-Contains-Duplicate-II/
+│   │   ├── README.md
+│   │   └── solution.js
+│   │
+│   ├── 005-Valid-Anagram/
+│   │   ├── README.md
+│   │   └── solution.js
+│   │
+│   ├── 006-Group-Anagrams/
+│   │   ├── README.md
+│   │   └── solution.js
+│   │
+│   ├── 007-Best-Time-to-Buy-and-Sell-Stock/
+│   │   ├── README.md
+│   │   └── solution.js
+│   │
+│   ├── 008-Best-Time-to-Buy-and-Sell-Stock-II/
+│   │   ├── README.md
+│   │   └── solution.js
+│   │
+│   └── 009-Merge-Sorted-Array/
+│       ├── README.md
+│       └── solution.js
 │
-└── 01-Array-String/
-    │
-    ├── 001-Two-Sum/
-    │   ├── README.md
-    │   └── solution.js
-    │
-    ├── 003-Contains-Duplicate/
-    │   ├── README.md
-    │   └── solution.js
-    │
-    ├── 004-Contains-Duplicate-II/
-    │   ├── README.md
-    │   └── solution.js
-    │
-    ├── 005-Valid-Anagram/
-    │   ├── README.md
-    │   └── solution.js
-    │
-    ├── 006-Group-Anagrams/
-    │   ├── README.md
-    │   └── solution.js
-    │
-    ├── 007-Best-Time-to-Buy-and-Sell-Stock/
-    │   ├── README.md
-    │   └── solution.js
-    │
-    └── 008-Best-Time-to-Buy-and-Sell-Stock-II/
-        ├── README.md
-        └── solution.js
+└── README.md
 ```
 
-Each problem folder contains:
+## 🧩 Problems Covered
 
-- **README.md** — Problem statement, approach, examples, and complexity analysis.
-- **solution.js** — JavaScript implementation of the solution.
-
----
-
-## 🧠 Problems Covered
-
-### Arrays and Strings
-
-| Series # | LeetCode Problem | Technique |
-|---|---|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | HashMap |
-| 3 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | HashSet |
-| 4 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | HashMap |
-| 5 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | HashMap |
-| 6 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | HashMap + Sorting |
-| 7 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Greedy (Single Pass) |
-| 8 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Greedy |
-
----
+| # | LeetCode Problem | Difficulty | Approach | Solution |
+|---|---|---|---|---|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | HashMap | [View](./01-Array-String/001-Two-Sum/) |
+| 3 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | HashSet | [View](./01-Array-String/003-Contains-Duplicate/) |
+| 4 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | HashMap | [View](./01-Array-String/004-Contains-Duplicate-II/) |
+| 5 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | HashMap | [View](./01-Array-String/005-Valid-Anagram/) |
+| 6 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | HashMap | [View](./01-Array-String/006-Group-Anagrams/) |
+| 7 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Greedy | [View](./01-Array-String/007-Best-Time-to-Buy-and-Sell-Stock/) |
+| 8 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | Greedy | [View](./01-Array-String/008-Best-Time-to-Buy-and-Sell-Stock-II/) |
+| 9 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Two Pointers | [View](./01-Array-String/009-Merge-Sorted-Array/) |
 
 ## 🛠️ Tech Stack
 
 - **Language:** JavaScript
 - **Platform:** LeetCode
-- **Version Control:** Git and GitHub
-- **Documentation:** Markdown
+- **Version Control:** Git & GitHub
 
----
+## 🎥 YouTube
 
-## 🎥 Follow My Journey
+I also share problem explanations, approaches, and JavaScript solutions on YouTube.
 
-I'm also documenting my problem-solving journey on YouTube, explaining the logic, approach, code, and complexity behind each solution.
+📺 [Subscribe to my YouTube Channel](https://www.youtube.com/@darpan.builds)
 
-🎬 **YouTube:** [@darpan.builds](https://www.youtube.com/@darpan.builds)
+## 💡 Philosophy
 
-💻 **GitHub:** [leetcode-150-coding-interview-preparation](https://github.com/hellodarpan10-pixel/leetcode-150-coding-interview-preparation)
+> Become 1% better every day.
 
-Follow along as I solve problems, learn continuously, and get **1% better every day.**
+Consistency matters more than perfection. Every problem is an opportunity to learn, improve, and grow as a software engineer.
 
----
-
-## 🌱 My Philosophy
-
-Consistency beats intensity.
-
-Every problem solved is an opportunity to learn something new, improve my thinking, and become a better engineer.
-
-I'm focusing on understanding the **why** behind every solution, not just getting accepted.
-
-**One problem at a time. One step at a time. 1% better every day.**
-
----
-
-⭐ If you find this repository helpful, feel free to star it and follow my journey!
+**Solve. Learn. Grow. 🚀**
